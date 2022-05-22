@@ -1,2 +1,4 @@
-test.html
-web.html
+*.html
+!index.html
+*.txt
+!c.txt
